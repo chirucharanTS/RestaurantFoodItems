@@ -45,6 +45,7 @@ To use the Restaurant Name and Food Items Generator, follow these steps:
 ## Screenshots
 
 ![Screenshot 1](RestaurantFoodItemsGenerator\Restaurant and Food Items along With Price.gif)
+![alt text](<../Restaurant and Food Items along With Price.gif>)
 
 
 ## Contributing
